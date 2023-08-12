@@ -1,0 +1,2 @@
+give @s crossbow{display:{Name:'{"text":"Tnt BEAM Bow","color":"gold","bold":true,"italic":false}',Lore:['{"text":"Made by JaredH4"}']},Unbreakable:1b,CustomModelData:13,TntBeamBow:1b,Enchantments:[{id:"minecraft:unbreaking",lvl:3s},{id:"minecraft:quick_charge",lvl:3s}]} 1
+give @s arrow
