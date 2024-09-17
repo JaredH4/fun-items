@@ -1,0 +1,2 @@
+give @s crossbow[custom_name='{"bold":true,"color":"gold","italic":false,"text":"Tnt BEAM Bow"}',lore=['"Made by JaredH4"'],unbreakable={},custom_model_data=12,custom_data={TntBeamBow:1b},enchantments={levels:{"minecraft:quick_charge":3,"minecraft:unbreaking":3}}] 1
+give @s arrow

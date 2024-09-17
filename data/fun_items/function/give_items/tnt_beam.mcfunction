@@ -1,0 +1,1 @@
+give @s creeper_spawn_egg[custom_name='{"bold":true,"color":"gold","italic":false,"text":"TNT BEAM"}',lore=['"Made by JaredH4"'],unbreakable={},custom_model_data=12,entity_data={id:"minecraft:tnt",fuse:20,Tags:["tnt_beam"]}] 1

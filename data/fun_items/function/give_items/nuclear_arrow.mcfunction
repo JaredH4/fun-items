@@ -1,0 +1,1 @@
+give @s arrow[custom_name='{"bold":true,"color":"green","italic":false,"text":"☢Nuclear Arrow☢"}',lore=['"Made by JaredH4"'],custom_model_data=12,custom_data={NuclearArrow:1b}] 1

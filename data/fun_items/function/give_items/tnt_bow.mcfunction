@@ -1,0 +1,2 @@
+give @s bow[custom_name='{"bold":true,"color":"red","italic":false,"text":"Tnt Bow"}',lore=['"Made by JaredH4"'],unbreakable={},custom_model_data=12,custom_data={TntBow:1b},enchantments={levels:{"minecraft:flame":1,"minecraft:power":5,"minecraft:punch":3,"minecraft:infinity":3,"minecraft:unbreaking":3}}] 1
+give @s arrow
