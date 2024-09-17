@@ -1,1 +1,0 @@
-give @s arrow{display:{Name:'{"text":"☢Nuclear Arrow☢","color":"green","bold":true,"italic":false}',Lore:['{"text":"Made by JaredH4"}']},CustomModelData:12,NuclearArrow:1b} 1
